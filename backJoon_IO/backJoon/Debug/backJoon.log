@@ -1,0 +1,4 @@
+﻿  1000.c
+C:\Users\Feelgood_PC8\source\repos\backJoon\backJoon\1000.c(47,9): warning C4552: '<': 식의 결과가 사용되지 않습니다.
+C:\Users\Feelgood_PC8\source\repos\backJoon\backJoon\1000.c(45,6): warning C4101: 'T' :참조되지 않은 지역 변수입니다.
+  backJoon.vcxproj -> C:\Users\Feelgood_PC8\source\repos\backJoon\Debug\backJoon.exe
